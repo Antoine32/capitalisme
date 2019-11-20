@@ -1,0 +1,10 @@
+#version
+dev_0.1
+#currentLevel
+2
+#creationMode
+0
+#hitbox
+0
+#musicPlay
+1

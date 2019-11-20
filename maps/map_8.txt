@@ -1,0 +1,13 @@
+#version
+dev_0.1
+#ground
+104.0
+#mapSize
+1280.0
+#background
+City/Classic City/city_,4
+#coins
+639.52014,334.4975	640.409,564.7197
+#platform
+491.96457,382.49753,309.3333,66.66669
+#message
